@@ -17,3 +17,4 @@ Superstore Sample Dataset
 
 📈 Use Case:
 This project demonstrates the power of interactive dashboards in business analytics, allowing non-technical users to easily interpret and analyze data trends.
+link: https://public.tableau.com/app/profile/poojitha.varikallu/viz/SuperStoreInteractiveDashboard_17177435250130/Dashboard1
